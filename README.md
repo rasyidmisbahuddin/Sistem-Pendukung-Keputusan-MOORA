@@ -12,7 +12,7 @@ Berikut merupakan panduan installasi website Sistem Pendukung Keputusan Pemiliha
 Panduan dibawah ini saya mengasumsikan bahwa pengguna telah terbiasa dengan bahasa pemrograman PHP dan memahami penggunaan Windows PC pada sehari-hari.
 Yang harus dipersiapkan
 1. Mempunyai aplikasi text editor seperti Visual Studio Code, Notepad++, atau Sublime Text
-2. Mempunyai web server seperti XAMPP dengan versi v3.3.0
+2. Mempunyai web server seperti XAMPP dengan versi v3.3.0 atau diatasnya
 3. Mempunyai browser yang dapat menjalankan Javascript pada web (Google Chrome, Microsoft Edge atau browser lain dengan versi terbaru).
 4. Koneksi Internet.
 
