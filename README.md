@@ -1,9 +1,9 @@
 # Sistem-Pendukung-Keputusan-MOORA
 
-<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk.jpeg" alt="drawing" width="200"/>
-<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk2.jpeg" alt="drawing" width="200"/>
-<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk3.jpeg" alt="drawing" width="200"/>
-<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk4.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk.jpeg" alt="drawing" width="800"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk2.jpeg" alt="drawing" width="800"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk3.jpeg" alt="drawing" width="800"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk4.jpeg" alt="drawing" width="800"/>
 
 Sistem merupakan sistem berbasis web yang digunakan untuk menyeleksi siswa yang memerlukan bantuan berdasarkan perhitungan MOORA
 
