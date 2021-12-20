@@ -1,4 +1,4 @@
-# Sistem-Pendukung-Keputusan-MOORA
+# Sistem Pendukung Keputusan Pemilihan Siswa Penerima Bantuan dengan Metode MOORA
 
 <img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk.jpeg" alt="drawing" width="800"/>
 <img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk2.jpeg" alt="drawing" width="800"/>
