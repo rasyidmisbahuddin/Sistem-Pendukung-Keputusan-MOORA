@@ -1,4 +1,10 @@
 # Sistem-Pendukung-Keputusan-MOORA
+
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk2.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk3.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/rasyidmisbahuddin/Sistem-Pendukung-Keputusan-MOORA/blob/main/screenshotspk4.jpeg" alt="drawing" width="200"/>
+
 Sistem merupakan sistem berbasis web yang digunakan untuk menyeleksi siswa yang memerlukan bantuan berdasarkan perhitungan MOORA
 
 Berikut merupakan panduan installasi website Sistem Pendukung Keputusan Pemilihan Siswa Penerima Bantuan Dampak COVID-19 Menggunakan Multi Objective Optimization Method On The Basic Of Ratio
